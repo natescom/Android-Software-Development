@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pop Up Window</string>
+    <string name="btn_pop_text">Abrir Pop</string>
+</resources>
